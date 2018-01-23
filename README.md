@@ -220,3 +220,8 @@ On Windows, you can install one of the **old versions** via an offline NSIS inst
  - [emsdk-1.35.0-portable-64bit.zip](https://s3.amazonaws.com/mozilla-games/emscripten/releases/emsdk-1.35.0-portable-64bit.zip)
 
 Snapshots of all tagged Emscripten compiler releases (not full SDKs) can be found at [emscripten/releases](https://github.com/kripken/emscripten/releases).
+
+
+##### For example
+
+![Image text](https://github.com/renxinqiang/emcc/blob/master/WechatIMG7.jpeg)
